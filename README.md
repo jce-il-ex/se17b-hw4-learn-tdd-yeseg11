@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name:  Sagi Marciano
 - ID#:
 - github username: yeseg11
-- Estimation of hours I worked on it: 3.5 hours , the missions instruction is not clear enough !! 
+- Estimation of hours I worked on it: 3.5 hours , the missions instruction is not clear enough  we dont know in which file we need to add the code !! 
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
