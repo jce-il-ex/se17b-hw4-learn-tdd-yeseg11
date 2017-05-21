@@ -459,7 +459,7 @@ There are other tool that can be chained, see for example the badges in the begi
 
 Update the link below in the README file, to point to **your** repository status (as well as in the beginning).
 
-[![Travis Build Status](https://travis-ci.org/jce-il/learn-mocha.svg)](https://travis-ci.org/jce-il/learn-mocha)
+[![Travis Build Status](https://travis-ci.org/jce-il-ex/se17b-hw4-learn-tdd-yeseg11.svg?branch=master)](https://travis-ci.org/jce-il/learn-mocha)
 
 ![REFACTOR](https://raw.github.com/jce-il/learn-mocha/master/images/blue-circle-icon.png "REFACTOR")
 
